@@ -12,7 +12,7 @@ public class Test {
 		{
 			str[i]=s.next();
 		}
-		
+		////-------suraj---------------
 		for(int i=0;i<size;i++)
 		{
 			for(int j=i+1;j<size;j++)
